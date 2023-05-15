@@ -1,0 +1,27 @@
+:root{
+    --grey:#eeeeee;
+    --dark-grey:#aaaaaa;
+}
+.title{
+    font-weight: bolder;
+    color: var(--dark-grey);
+text-align: left;
+font-size: 24px;
+}
+.bookmark-box{
+    background-color: var(--grey);
+    width: 90%;
+}
+.title1{
+    font-size: 24px;
+    font-weight: bolder;
+}
+.inp1{
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid darkgrey;
+}
+.cop{
+    color: var(--dark-grey);
+    font-size: 14px;
+}
